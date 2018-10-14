@@ -47,7 +47,6 @@ $ npm start
 ![screenshots5](https://preview.ibb.co/ht47co/Screenshot_2018_06_07_10_48_39.png)  |  ![screenshots6](https://preview.ibb.co/mH24OT/Screenshot_2018_06_07_10_48_52.png)  |  ![screenshots7](https://preview.ibb.co/mveUq8/Screenshot_2018_06_07_10_49_17.png)  |  ![screenshots8](https://image.ibb.co/j7PJiT/Screenshot_2018_06_07_10_49_38.png)
 ![screenshots9](https://image.ibb.co/mpFPOT/Screenshot_2018_06_07_10_49_53.png)  |  ![screenshots10](https://image.ibb.co/d74vV8/Screenshot_2018_06_07_10_50_02.png)  |  ![screenshots11](https://image.ibb.co/bC6nco/Screenshot_2018_06_07_10_50_09.png)  |  ![screenshots12](https://image.ibb.co/ewStHo/Screenshot_2018_06_07_10_50_19.png)
 
-## Video
-[![Bukalapak Clone](https://img.youtube.com/vi/pvySeI_kx7s/0.jpg)](https://www.youtube.com/watch?v=pvySeI_kx7s)
+
 
 
