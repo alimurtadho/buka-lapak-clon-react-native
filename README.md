@@ -1,6 +1,6 @@
 # Bukalapak Clone
 
-Bukalapak Clone is a clone app of https://bukalapak.com. It use React Native as the frontend and Express as the Backend. I am working this app at https://dumbways.id and https://arkademy.com Bootcamp class. Feels free to contribute to make this app better.
+Bukalapak Clone is a clone app of https://bukalapak.com. It use React Native as the frontend and Express as the Backend.
 
 ![gif](https://github.com/dickyindra/bukalapak-clone/blob/master/New-Project.gif)
 
@@ -20,7 +20,7 @@ Bukalapak Clone is a clone app of https://bukalapak.com. It use React Native as 
 Open terminal, and clone this project
 
 ```
-$ git clone https://github.com/dickyindra/bukalapak-clone
+$ git clone https://github.com/alimurtadho/buka-lapak-clone-react-native.git
 ```
 
 **API:**
