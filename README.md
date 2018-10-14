@@ -50,11 +50,4 @@ $ npm start
 ## Video
 [![Bukalapak Clone](https://img.youtube.com/vi/pvySeI_kx7s/0.jpg)](https://www.youtube.com/watch?v=pvySeI_kx7s)
 
-## Powered by
-
-![https://dumbways.id](https://avatars2.githubusercontent.com/u/34464790?s=200&v=4)
-
-![https://arkademy.com](http://www.arkademy.com/asset/images/ico_logo.png)
-
-Author: Dicky Indra Asmara
 
